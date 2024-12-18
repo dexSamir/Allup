@@ -1,0 +1,9 @@
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.csproj.AssemblyReference.cache
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.AssemblyInfoInputs.cache
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.AssemblyInfo.cs
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.csproj.CoreCompileInputs.cache
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.RazorAssemblyInfo.cache
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.RazorAssemblyInfo.cs
+C:\Users\ll Novbe\Desktop\Allup\AllupProject\AllupProject\obj\Debug\net8.0\AllupProject.sourcelink.json
